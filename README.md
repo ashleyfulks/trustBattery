@@ -13,24 +13,37 @@ This app aims to solve the age old problem of who to trust. For example there ar
 An entity may be:
 
 - An adult person (over 18 years old verified by social media account or email)
-- A juvenile (under 18 years old and has special rules) 
+- A juvenile (under 18 years old and has special rules)
 - A business (linked to website or person)
 - An organization such as charity (linked to website or person)
 - An institution such as government or political group (linked to person or website)
 
-### Temporary paid positions
+### Cryptocurrency integration
 
-Jury - an adult person randomly selected to assist with arbitration
+The definition of Karma means "action, work or deed". Tokens in the Trust Battery eco system are called "Karma". Karma can be used in the following ways:
+
+- To pay for goods or services in the ecosystem
+- To reward others by tipping them
+- To convert into other crypto currency like Bitcoin or Ethereum
+- To sell for cash in local currency
+
+There are many ways to make Karma in the system. Here is a list:
+
+- Joining the network
+- Assisting to add other people to the system (on-boarding)
+- Engaging others in interactions in the ecosystem
+- Receiving payment for goods or services performed in Karma
+- Providing services to the Arbitration ecosystem (Peer Jury for example)
 
 ### The ideal interaction
 
-The general idea is two entities with high trust batteries can interact with each other having a high probability of trust immediately. Both parties know that violating that trust can mean negative consequences to their own Trust Batteries and in turn reduce their Trust Battery level. A positive interaction with others in the network means a boost to the entities trust rating. The exact rules to how this works needs to be flushed out.
+The general idea is two entities with high trust batteries can interact with each other having a high probability of trust level between them immediately. Both parties know that violating trust can mean negative consequences to their own Trust Batteries and in turn reduce their Trust Battery levels. A positive interaction with others in the network means a boost to the entities trust rating. The exact rules to how this works needs to be flushed out.
 
-The idea is honest and fair entities will eventually float to the top. They will establish a high trust rating (100%) and have very low issues. Those entities can now have a trusted pool of suppliers, businesses and individuals in the network that they can work with a level of high integrity.
+The idea is honest and fair entities will eventually float to the top. They will establish a high trust rating (100%) and have very low issues. They will also amass Karma which they can use inside the ecosystem. One of the main advantages to the network is those entities can now have a trusted pool of suppliers, businesses and individuals in the network that they can do business with a level of high integrity.
 
 ### That person has issues
 
-As well the system tracks metrics like "issues" and can be used to arbitrate two parties in conflict to come to a fair resolution. The best outcome to a conflict is a sense of harmony afterwards with no issues. This system will be programmed in such a way to try to attain harmony in all interactions. If harmony cannot be achieved then a fair compromise can be sought. In the event a fair compromise is not possible, then one of the parties who is judged by their peers (possibly 3 chosen randomly) will have an "issue" attached to their permanent record in the blockchain and the matter will be considered closed. There is a window for appeal 3 times and the third time the judgement is made, the decision sticks. The number of "issues" entities have will be displayed publicly for all others to see before interacting with that entity. This could hurt their ability to connect with others in the network in the future. There is an optional system for "ammends" where entities who have an issue decide to reach out to the other party and "make it right". If the other party and Judges decide that the other party "made them whole" then the issue could be removed.
+As well the system tracks metrics like "issues" and can be used to arbitrate two parties in conflict to come to a fair resolution. The best outcome to a conflict is a sense of harmony afterwards with no issues. This system will be programmed in such a way to try to attain harmony in all interactions. If harmony cannot be achieved then a fair compromise can be sought. In the event a fair compromise is not possible, and negotiations have failed then one of the parties who is judged by their peers (3 chosen randomly) will have an "issue" attached to their permanent record in the blockchain and the matter will be considered closed. There is a window for appeal 3 times and the third time the judgement is made, the decision sticks. The number of "issues" entities have will be displayed publicly for all others to see before interacting with that entity. This could hurt their ability to connect with others in the network in the future. There is an optional system for "amends" where entities who have an issue decide to reach out to the other party and "make it right". If the other party and Peer Jury decide that the other party "made them whole" then the issue could be removed from their record, but of course the history of that issue would still remain because blockchain history is immutable.
 
 ### Scope on Entities
 
@@ -38,7 +51,7 @@ Any entity can join the network. If it is a company, that company can be connect
 
 ### Issues
 
-Other than Trust Battery level, issues are tracked. Anytime an entity in the system feels their trust has been violated, they can create an issue with another entity. At that time 3 judges are randomly selected from the network and offered tokens as payment to deal with the issue. Evidence is entered and anonomized and presented to the judges. The judges then make a decision that trust has or has not been violated. The decision the judges make influence 
+Other than Trust Battery level, issues are tracked. Anytime an entity in the system feels their trust has been violated, they can create an issue with another entity. At that time 3 judges are randomly selected from the network and offered tokens as payment to deal with the issue. Evidence is entered and anonomized and presented to the judges. The judges then make a decision that trust has or has not been violated. The decision the judges make influence
 
 3 strikes you out - 3 choices to appeal a decision
 Negotiations to "make it right" and avoid a decision - negotiations recorded
@@ -53,22 +66,7 @@ The network and processes are setup in such a way that there are positive and ne
 
 ### Arbitration
 
-### Cryptocurrency integration
 
-The definition of Karma means "action, work or deed". Tokens in the Trust Battery eco system are called "Karma". Karma can be used in the following ways:
-
-- To pay for services or goods in the ecosystem
-- To reward others by tipping them
-- To convert into other crypto currency like Bitcoin or Ethereum
-- To sell for cash in local currency
-
-There are many ways to make Karma in the system. Here is a list:
-
-- Joining the network
-- Assisting to add other people to the system (onboarding)
-- Engaging others in interactions in the ecosystem
-- Receiving payment for goods or services performed
-- Providing services to the Arbitration ecosystem
 
 ### Searching the Network
 
