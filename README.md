@@ -2,18 +2,19 @@
 
 ### Problem
 
-When selecting another entity to interact with, evaluating the level of trustworthiness with that entity is a difficult problem to solve. Some entities are very trustworthy and could be implicitly trusted to behave in a fair manner. Other times unscrupulous entities look for honest people to take advantage of. This software system will establish a "measurement" of an entities trust through the feedback of their interactions with others in the network. This software is essentially a tool to use, as well as your own discretion, to decide to interact with another entity and if you do, where to set your expectation levels.
+When selecting another entity to interact with, evaluating the level of trustworthiness with that entity is a difficult problem to solve. Some entities are very trustworthy and could be implicitly trusted to behave in a fair manner. Other times unscrupulous entities look for honest people to take advantage of. This software system will establish a "measurement" of an entities trust through the feedback of their interactions with others in the network. This software is essentially a tool to use, as well as discretion, gut feelings, etc, to decide to interact with another entity and if you do, where to set your expectation levels.
 
 ### Who to trust?
 
-This app aims to solve the age old problem of who to trust. For example there are 10 carpenters in town and you need a deck built, who are you going to hire? The cheapest? The one with the most reviews? The highest rated one on Google? The one your friend knows is really good and fair? So many times people have become serial victims of "fly by night" entities whose aim is to take advantage of trusting people. This system will make it obvious who is the most trustworthy and fair business as the carpenters will be sorted according to trust level through their interactions with others, written in the immutable blockchain.
+This app aims to solve the age old problem of who to trust. For example there are 10 carpenters in town and you need a deck built, who are you going to hire? The cheapest? The one with the most reviews? The highest rated one on Google? The one your friend knows is really good and fair? So many times people have become serial victims of "fly by night" entities whose aim is to take advantage of trusting people. This system will make it obvious who is the most trustworthy and fair business as the carpenters will be sorted according to trust level through their interactions with others, written in the immutable blockchain. There will be a quote and bid contract system to govern the dynamics of the interactions with the overall goal of establishing Harmony and highly desirable rewards in the interaction.
 
 ### Entities
 
 An entity may be:
 
 - An adult person (over 18 years old verified by social media account or email)
-- A juvenile (under 18 years old and has special rules)
+- A juvenile (under 18 years old and has more rules)
+- A child (under 13 and basic rule set)
 - A business (linked to website or person)
 - An organization such as charity (linked to website or person)
 - An institution such as government or political group (linked to person or website)
@@ -28,7 +29,7 @@ The system gamifies business interactions and trys to establish harmony to all e
 
 Each interaction between entities starts with a contract being written. For example, I need a deck built at my house, so I start a contract with the the following list of items.
 
-- Must build a deck attached to my house in my back yard in Kelowna
+- Must build a deck attached to my house in my back yard in Kelowna, BC, Canada
 - Quote must include materials and labor with no hidden costs
 - Builder must be proficient at building decks and present pictures of decks they built
 - Deck must be built from Cedar and stained a blue color (color #3D405B)
@@ -37,17 +38,24 @@ Each interaction between entities starts with a contract being written. For exam
 - Budget is from $2,500 - $5,000 for parts and labor
 
 This request for service/labor is searchable for all other members (and potential members?)
-Another entity on the network is searching for carpantry jobs and comes across the contract.
-They read it, accept the terms but also suggest some changes such as:
+In the example, another entity on the network is searching for carpantry jobs and comes across the contract. They review the contract and also the qualities of the other entity presenting the contract. They read it, decide they can work with the other entity and accept the terms on-by-one but also suggest some modifications such as:
 
 - Builder will start in 45 days of accepting the contract
-- Must view grounds prior to giving an exact dollar quote
+- Builder must view grounds prior to giving an exact dollar quote
 - Costs do not include removing any old deck
 - Existing work area must be clean of debris and approved by the builder before starting the job
 
 The other party now has the option of accepting the new terms or requesting modifications.
 
-
+Go on with job
+Conflict due to terms not being met
+Negotiations and arbitration
+Nash Equilibrium met and all parties accept result
+Financial transaction in crypto or fiat initiated
+Job is complete, follow up tasks such as:
+- each side rates the other double blind and unmodifiable way
+- Trust points earned (more conflict and negotiations slightly higher trust do to experience working through it)
+- Two trust ratings. Trust with each entity starts at 50%. An average of all trust levels = Global Trustworthyness level which is public for all to see.
 
 ### Cryptocurrency integration
 
