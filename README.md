@@ -18,6 +18,37 @@ An entity may be:
 - An organization such as charity (linked to website or person)
 - An institution such as government or political group (linked to person or website)
 
+### Nash Equilibrium
+
+Game theorists use the Nash equilibrium concept to analyze the outcome of the strategic interaction of several decision makers. In other words, it provides a way of predicting what will happen if several people or several institutions are making decisions at the same time, and if the outcome for each of them depends on the decisions of the others. The simple insight underlying John Nash's idea is that one cannot predict the result of the choices of multiple decision makers if one analyzes those decisions in isolation. Instead, one must ask what each player would do, taking into account the decision-making of the others. More here: https://en.wikipedia.org/wiki/Nash_equilibrium
+
+The system gamifies business interactions and trys to establish harmony to all entities in the interaction.
+
+### The Contract Process
+
+Each interaction between entities starts with a contract being written. For example, I need a deck built at my house, so I start a contract with the the following list of items.
+
+- Must build a deck attached to my house in my back yard in Kelowna
+- Quote must include materials and labor with no hidden costs
+- Builder must be proficient at building decks and present pictures of decks they built
+- Deck must be built from Cedar and stained a blue color (color #3D405B)
+- Deck should take no more than 2 weeks to build from start to finish
+- Builder must start within 30 days of accepting the contract
+- Budget is from $2,500 - $5,000 for parts and labor
+
+This request for service/labor is searchable for all other members (and potential members?)
+Another entity on the network is searching for carpantry jobs and comes across the contract.
+They read it, accept the terms but also suggest some changes such as:
+
+- Builder will start in 45 days of accepting the contract
+- Must view grounds prior to giving an exact dollar quote
+- Costs do not include removing any old deck
+- Existing work area must be clean of debris and approved by the builder before starting the job
+
+The other party now has the option of accepting the new terms or requesting modifications.
+
+
+
 ### Cryptocurrency integration
 
 The definition of Karma means "action, work or deed". Tokens in the Trust Battery eco system are called "Karma". Karma can be used in the following ways:
@@ -66,7 +97,7 @@ The network and processes are setup in such a way that there are positive and ne
 
 ### Arbitration
 
-
+The shining goal of the arbitration system is to establish Harmony, which is "agreement or concord". The process flow should always be trying to make the most fair end result
 
 ### Searching the Network
 
