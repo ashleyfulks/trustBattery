@@ -53,7 +53,7 @@ Any entity can join the network. If it is a company, that company can be connect
 
 Other than Trust Battery level, issues are tracked. Anytime an entity in the system feels their trust has been violated, they can create an issue with another entity. At that time 3 judges are randomly selected from the network and offered tokens as payment to deal with the issue. Evidence is entered and anonomized and presented to the judges. The judges then make a decision that trust has or has not been violated. The decision the judges make influence
 
-3 strikes you out - 3 choices to appeal a decision
+3 strikes you out - 3 choices to appeal a decision - 2 out of three (final decisions) stick. So if the appeal shows trust is broken the first time, there is an appeal and another decision that trust is broken, means there will be no third appeal as 2/3 appeals have made a final decision.
 Negotiations to "make it right" and avoid a decision - negotiations recorded
 
 ### Rewards
