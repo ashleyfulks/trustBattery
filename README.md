@@ -1,4 +1,4 @@
-# trustBattery
+# TrustBattery
 
 ### Problem
 
